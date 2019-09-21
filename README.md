@@ -7,4 +7,5 @@
 - any `*f` suffix folder will contain foleys or various noises
 - any `*c` suffix folder will contain claps
 
+Made for my own use + 2Mo with Tidalcycles / SuperDirt, but feel free to use them
 Most likely stereo, 44.1 KHz 16 bit, fits your hardware sampler if needed
